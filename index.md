@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+<h1 align="center">
+  Angelica Chen
+</h1>
+<p align="center">
+  angelica[dot]chen[at]nyu.edu
+</p>
 
-You can use the [editor on GitHub](https://github.com/angie-chen55/angie-chen55.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Sam Bowman](https://cims.nyu.edu/~sbowman/) and [Kyunghyun Cho](https://kyunghyuncho.me/). I'm broadly interested in deep learning for natural language understanding, model robustness, and improved evaluation metrics for NLU models. I'm also currently a student researcher at Google Research working on streaming models for disfluency detection.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prior to NYU, I worked as a software engineer at Google and graduated with high honors from Princeton Computer Science.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/angie-chen55/angie-chen55.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Outside of my research, I enjoy running, baking more pastries than I can feasibly eat, and cooking. I also volunteer as a rape crisis counselor/victim advocate for the NYC Crime Victims Treatment Center and a crisis counselor for Crisis Text Line.
