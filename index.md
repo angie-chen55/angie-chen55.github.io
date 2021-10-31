@@ -2,7 +2,7 @@
   Angelica Chen
 </h1>
 <p align="center">
-  angelica[dot]chen[at]nyu.edu
+  angelica[dot]chen[at]nyu.edu | <a href="https://scholar.google.com/citations?hl=en&user=QbW4GSwAAAAJ">Google Scholar</a>
 </p>
 
 Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Sam Bowman](https://cims.nyu.edu/~sbowman/) and [Kyunghyun Cho](https://kyunghyuncho.me/). I'm broadly interested in deep learning for natural language understanding, model robustness, and improved evaluation metrics for NLU models. I'm also currently a student researcher at Google Research working on streaming models for disfluency detection.
