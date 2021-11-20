@@ -9,4 +9,4 @@ Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning fo
 
 Prior to NYU, I worked as a software engineer at Google and graduated with high honors from Princeton Computer Science.
 
-Outside of my research, I enjoy running, baking more pastries than I can feasibly eat, and cooking. I also volunteer as a rape crisis counselor/victim advocate for the NYC Crime Victims Treatment Center and a crisis counselor for Crisis Text Line.
+Outside of my research, I enjoy running, baking more pastries than I can feasibly eat, and cooking. I also volunteer as a rape crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) and a crisis counselor for [Crisis Text Line](https://www.crisistextline.org/).
