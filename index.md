@@ -7,6 +7,6 @@
 
 Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Sam Bowman](https://cims.nyu.edu/~sbowman/) and [Kyunghyun Cho](https://kyunghyuncho.me/). I'm broadly interested in deep learning for natural language understanding, model robustness, and improved evaluation metrics for NLU models. I'm also currently a student researcher at Google Research working on streaming models for disfluency detection.
 
-Prior to NYU, I worked as a software engineer at Google and graduated with high honors from Princeton Computer Science.
+Prior to NYU, I worked as a software engineer at Google and graduated with high honors from Princeton Computer Science. [Sebastian Seung](https://www.cs.princeton.edu/people/profile/sseung) advised my senior thesis at Princeton, for which I recieved an Outstanding Computer Science Thesis award.
 
-Outside of my research, I enjoy running, baking more pastries than I can feasibly eat, and cooking. I also volunteer as a rape crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) and a crisis counselor for [Crisis Text Line](https://www.crisistextline.org/).
+Outside of my research, I enjoy running, baking more pastries than I can feasibly eat, and cooking. I also volunteer as a rape and domestic violence crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) (at Lenox Health Greenwich Village and Brookdale Hospital) and a crisis counselor for [Crisis Text Line](https://www.crisistextline.org/).
