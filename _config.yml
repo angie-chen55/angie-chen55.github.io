@@ -1,5 +1,6 @@
 title: Angelica Chen
 logo: /headshot.jpg
 remote_theme: pages-themes/minimal@v0.2.0
+google_analytics: G-670B6DTP1R
 plugins:
 - jekyll-remote-theme
