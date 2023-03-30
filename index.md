@@ -16,7 +16,7 @@ Outside of my research, I enjoy running, baking more pastries than I can feasibl
 </h2>
 For a more complete list, see my <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar profile</a>. <br>
 <br>
-<b>Chen, Angelica</b>, Jérémy Scheurer, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez. "Improving Code Generation by Training with Natural Language Feedback." (2023). <a href="https://github.com/nyu-mll/ILF-for-code-generation/blob/main/ilf_for_code_gen.pdf">Preprint</a>. <br>
+<b>Chen, Angelica</b>, Jérémy Scheurer, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez. "Improving Code Generation by Training with Natural Language Feedback." (2023). <a href="https://arxiv.org/abs/2303.16749">Arxiv</a>. <br>
 <br>
 <b>Chen, Angelica</b>, David M. Dohan and David R. So. "EvoPrompting: Language Models for Code-Level Neural Architecture Search." (2023). <a href="https://arxiv.org/abs/2302.14838">Arxiv</a>. <br>
 <br>
