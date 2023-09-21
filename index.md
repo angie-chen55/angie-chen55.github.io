@@ -22,9 +22,9 @@ For a more complete list, see my <a href="https://www.semanticscholar.org/author
 <br>
 <b>Chen, Angelica</b>, Jérémy Scheurer, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez. "Improving Code Generation by Training with Natural Language Feedback." (2023). <a href="https://arxiv.org/abs/2303.16749">Arxiv</a>. <br>
 <br>
-<b>Chen, Angelica</b>, David M. Dohan and David R. So. "EvoPrompting: Language Models for Code-Level Neural Architecture Search." (2023). <a href="https://arxiv.org/abs/2302.14838">Arxiv</a>. <br>
+<i>(To be presented at NeurIPS 2023!)</i> <b>Chen, Angelica</b>, David M. Dohan and David R. So. "EvoPrompting: Language Models for Code-Level Neural Architecture Search." (2023). <a href="https://arxiv.org/abs/2302.14838">Arxiv</a>. <br>
 <br>
-Korbak, Tomasz, Kejian Shi, <b>Angelica Chen</b>, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Sam Bowman and Ethan Perez. "Pretraining Language Models with Human Preferences." (2023). <a href="https://arxiv.org/abs/2302.08582.pdf">Arxiv</a>. <br>
+Korbak, Tomasz, Kejian Shi, <b>Angelica Chen</b>, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Sam Bowman and Ethan Perez. "Pretraining Language Models with Human Preferences." <i>International Conference on Machine Learning, PMLR</i> (2023). <a href="https://arxiv.org/abs/2302.08582.pdf">Arxiv</a>. <br>
 <br>
 <b>Chen, Angelica</b>, Victoria Zayats, Daniel David Walker and Dirk Ryan Padfield. "Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection." <i>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i> (2022). <a href="https://www.aclanthology.org/2022.naacl-main.60.pdf">ACL Anthology</a>. <br>
 <br>
