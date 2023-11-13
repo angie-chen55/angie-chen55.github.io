@@ -16,25 +16,45 @@ Outside of my research, I enjoy running, baking more pastries than I can feasibl
 </h2>
 For a more complete list, see my <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar profile</a>. <br>
 <br>
-<b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra. "Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs." (2023). <a href="https://arxiv.org/abs/2309.07311">Arxiv</a>. <br>
+<i>(Under review at ICLR 2024)</i> <b><u>Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs</u></b><br>
+<b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra.<br>
+[<a href="https://openreview.net/forum?id=MO5PiKHELW">OpenReview</a>] [<a href="https://arxiv.org/abs/2309.07311">Arxiv</a>] <br>
 <br>
-<b>Chen, Angelica</b>, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho. "Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs." (2023). <a href="https://arxiv.org/abs/2305.14279">Arxiv</a>. <br>
+<i>(Under review)</i> <b><u>Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs</u></b><br>
+<b>Chen, Angelica</b>, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho.<br> 
+[<a href="https://arxiv.org/abs/2305.14279">Arxiv</a>]<br>
 <br>
-<b>Chen, Angelica</b>, Jérémy Scheurer, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez. "Improving Code Generation by Training with Natural Language Feedback." (2023). <a href="https://arxiv.org/abs/2303.16749">Arxiv</a>. <br>
+<i>(Under review)</i> <b><u>Improving Code Generation by Training with Natural Language Feedback</u></b><br>
+<b>Chen, Angelica</b>, Jérémy Scheurer, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez<br>
+[<a href="https://arxiv.org/abs/2303.16749">Arxiv</a>] [<a href="https://github.com/nyu-mll/ILF-for-code-generation">GitHub</a>]<br>
 <br>
-<i>(To be presented at NeurIPS 2023!)</i> <b>Chen, Angelica</b>, David M. Dohan and David R. So. "EvoPrompting: Language Models for Code-Level Neural Architecture Search." (2023). <a href="https://arxiv.org/abs/2302.14838">Arxiv</a>. <br>
+<b><u>EvoPrompting: Language Models for Code-Level Neural Architecture Search</u></b><br>
+<i>NeurIPS 2023</i><br>
+<b>Chen, Angelica</b>, David M. Dohan and David R. So<br>
+[<a href="https://openreview.net/forum?id=ifbF4WdT8f">OpenReview</a>] [<a href="https://arxiv.org/abs/2302.14838">Arxiv</a>]<br>
 <br>
-Korbak, Tomasz, Kejian Shi, <b>Angelica Chen</b>, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Sam Bowman and Ethan Perez. "Pretraining Language Models with Human Preferences." <i>International Conference on Machine Learning, PMLR</i> (2023). <a href="https://arxiv.org/abs/2302.08582.pdf">Arxiv</a>. <br>
+<b><u>Pretraining Language Models with Human Preferences</u></b><br>
+<i>ICML 2023</i><br>
+Korbak, Tomasz, Kejian Shi, <b>Angelica Chen</b>, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Sam Bowman and Ethan Perez<br>
+[<a href="https://arxiv.org/abs/2302.08582.pdf">Arxiv</a>]<br>
 <br>
-<b>Chen, Angelica</b>, Victoria Zayats, Daniel David Walker and Dirk Ryan Padfield. "Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection." <i>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i> (2022). <a href="https://www.aclanthology.org/2022.naacl-main.60.pdf">ACL Anthology</a>. <br>
+<b><u>Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection</u></b><br>
+<i>NAACL 2022</i><br>
+<b>Chen, Angelica</b>, Victoria Zayats, Daniel David Walker and Dirk Ryan Padfield<br>
+[<a href="https://www.aclanthology.org/2022.naacl-main.60.pdf">ACL Anthology</a>]<br>
 <br>
-Phang, Jason, <b>Angelica Chen</b>, William Huang and Samuel R. Bowman. "Adversarially Constructed Evaluation Sets Are More Challenging, but May Not Be Fair." <i>Dynamic Adversarial Data Collection (DADC) Workshop at NAACL 2022</i>. <a href="https://arxiv.org/abs/2111.08181">Arxiv</a>. <br>
+<b><u>Training Language Models with Natural Language Feedback</u></b><br>
+<i>ACL 2022 Workshop on Learning with Natural Language Supervision</i><br>
+Scheurer, J'er'emy, Jon Ander Campos, Jun Shern Chan, <b>Angelica Chen</b>, Kyunghyun Cho and Ethan Perez<br>
+[<a href="https://arxiv.org/abs/2204.14146">Arxiv</a>]<br>
 <br>
-Scheurer, J'er'emy, Jon Ander Campos, Jun Shern Chan, <b>Angelica Chen</b>, Kyunghyun Cho and Ethan Perez. "Training Language Models with Natural Language Feedback." <i>Association for Computational Linguistics Workshop on Learning with Natural Language Supervision</i> (2022). <a href="https://arxiv.org/abs/2204.14146">Arxiv</a>. <br>
+<b><u>BBQ: A hand-built bias benchmark for question answering</u></b><br>
+<i>ACL Findings 2022</i><br>
+Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Jana Thompson, Phu Mon Htut and Sam Bowman<br>
+[<a href="https://aclanthology.org/2022.findings-acl.165/">Arxiv</a>]<br>
 <br>
-Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Jana Thompson, Phu Mon Htut and Sam Bowman. "BBQ: A hand-built bias benchmark for question answering." <i>Findings of the Association for Computational Linguistics</i> (2022). <a href="https://aclanthology.org/2022.findings-acl.165/">Arxiv</a>. <br>
-<br>
-Shaw, Peter, Philip Massey, <b>Angelica Chen</b>, Francesco Piccinno and Yasemin Altun. "Generating Logical Forms from Graph Representations of Text and Entities." <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (2019). <a href="https://aclanthology.org/P19-1010/">ACL Anthology</a>. <br>
-<br>
-Paireau, Juliette<sup>\*</sup>, <b>Angelica Chen<sup>\*</sup></b>, Hélène Broutin, Bryan T. Grenfell and Nicole E. Basta. "Seasonal dynamics of bacterial meningitis: a time-series analysis." <i>The Lancet Global Health</i> (2016). <a href="https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(16)30064-X/fulltext">Full Text</a>. <br>
+<b><u>Seasonal dynamics of bacterial meningitis: a time-series analysis</u></b><br>
+<i>The Lancet Global Health</i><br>
+Paireau, Juliette<sup>\*</sup>, <b>Angelica Chen<sup>\*</sup></b>, Hélène Broutin, Bryan T. Grenfell and Nicole E. Basta.<br>
+[<a href="https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(16)30064-X/fulltext">The Lancet</a>]<br>
 <br>
