@@ -34,7 +34,7 @@ For a more complete list, see my <a href="https://www.semanticscholar.org/author
 Michael Y. Hu, <b>Angelica Chen</b>, Naomi Saphra, Kyunghyun Cho<br>
 [<a href="https://arxiv.org/abs/2308.09543">Arxiv</a>] [<a href="https://openreview.net/forum?id=NE2xXWo0LF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">OpenReview</a>]<br>
 <br>
-<i>(Under review)</i> <b><u>Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs</u></b><br>
+<i>(Accepted to Transactions on Machine Learning Research)</i> <b><u>Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs</u></b><br>
 <b>Chen, Angelica</b>, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho.<br> 
 [<a href="https://arxiv.org/abs/2305.14279">Arxiv</a>]<br>
 <br>
