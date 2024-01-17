@@ -16,7 +16,8 @@ Outside of my research, I enjoy running, baking more pastries than I can feasibl
 </h2>
 For a more complete list, see my <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar profile</a>. <br>
 <br>
-<i>(Under review)</i> <b><u>Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs</u></b><br>
+<b><u>Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs</u></b><br>
+<i>ICLR 2024 (Spotlight)</i><br>
 <b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra.<br>
 [<a href="https://openreview.net/forum?id=MO5PiKHELW">OpenReview</a>] [<a href="https://arxiv.org/abs/2309.07311">Arxiv</a>] <br>
 <br>
