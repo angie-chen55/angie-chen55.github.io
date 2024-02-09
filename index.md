@@ -21,9 +21,10 @@ For a more complete list, see my <a href="https://www.semanticscholar.org/author
 <b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra.<br>
 [<a href="https://openreview.net/forum?id=MO5PiKHELW">OpenReview</a>] [<a href="https://arxiv.org/abs/2309.07311">Arxiv</a>] <br>
 <br>
-<i>(Under review)</i> <b><u>Improving Code Generation by Training with Natural Language Feedback</u></b><br>
-<b>Chen, Angelica</b>, Jérémy Scheurer, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez<br>
-[<a href="https://arxiv.org/abs/2303.16749">Arxiv</a>] [<a href="https://github.com/nyu-mll/ILF-for-code-generation">GitHub</a>]<br>
+<b><u>Learning from Natural Language Feedback</u></b><br>
+<i>Accepted to Transactions on Machine Learning Research</i><br>
+<b>Chen, Angelica<sup>\*</sup></b>, Jérémy Scheurer<sup>\*</sup>, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez<br>
+[<a href="https://arxiv.org/abs/2303.16749">OpenReview</a>] [<a href="https://github.com/nyu-mll/ILF-for-code-generation">GitHub</a>]<br>
 <br>
 <b><u>EvoPrompting: Language Models for Code-Level Neural Architecture Search</u></b><br>
 <i>NeurIPS 2023 (poster)</i><br>
