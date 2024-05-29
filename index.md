@@ -16,6 +16,16 @@ Outside of my research, I enjoy running, baking more pastries than I can feasibl
 </h2>
 For a more complete list, see my <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar profile</a>. <br>
 <br>
+<b><u>Preference Learning Algorithms Do Not Learn Preference Rankings</u><br>
+<i>Preprint</i><br>
+<b>Chen, Angelica</b>, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, Kyunghyun Cho.<br>
+[<a href="https://github.com/angie-chen55/pref-learning-ranking-acc/blob/main/pref_learning_algs_do_not_learn_pref_rankings.pdf">Preprint</a>] [<a href="https://github.com/angie-chen55/pref-learning-ranking-acc/tree/main">GitHub</a>] <br>
+<br>
+<b><u>Playing Large Games with Oracles and AI Debate</u></b><br>
+<i>Preprint</i><br>
+Xinyi Chen, <b>Angelica Chen</b>, Dean Foster, Elad Hazan.<br>
+[<a href="https://arxiv.org/abs/2312.04792">Arxiv</a>] [<a href="https://github.com/angie-chen55/alignment-game-public">GitHub</a>] <br>
+<br>
 <b><u>Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs</u></b><br>
 <i>ICLR 2024 (Spotlight)</i><br>
 <b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra.<br>
