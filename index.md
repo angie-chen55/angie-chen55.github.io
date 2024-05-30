@@ -13,7 +13,7 @@ Outside of my research, I enjoy running, baking more pastries than I can feasibl
 
 * * *
 
-My work is largely split into three general directions -- understanding LLM training, improving how LLMs learn from feedback, and evaluating LLMs. For a more complete list of my past work, please see my <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar profile</a>. <br>
+My work is largely split into three general directions -- understanding LLM training, improving how LLMs learn from feedback, and evaluating LLMs. For a more complete list of my papers, please see <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar</a>.<br>
 
 <h3>Understanding LLM Training</h3>
 <b><u>Preference Learning Algorithms Do Not Learn Preference Rankings</u></b><br>
