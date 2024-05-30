@@ -75,7 +75,11 @@ Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, 
 Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Jana Thompson, Phu Mon Htut and Sam Bowman<br>
 [<a href="https://aclanthology.org/2022.findings-acl.165/">ACL Anthology</a>]<br>
 
-<h2 id="talks">Invited Talks</h2>
+<h2 align="center" id="talks">
+  Invited Talks
+</h2>
+
+* * *
 
 *   "Interpreting Model Training," <i>Princeton Language and Intelligence</i>, April 18, 2024 (<a href="https://docs.google.com/presentation/d/1zyjPLBF1RyGCIxWPs_G81YdXAP2rgaCFksraiUZSDr0/edit?usp=sharing">Slides</a>)
 *   "Learning From Natural Language Feedback," <i>Cohere</i>, Auguest 2, 2023 (<a href="https://www.youtube.com/watch?v=Ex2qCbZCIFI">Video</a>)
