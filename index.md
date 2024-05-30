@@ -1,10 +1,13 @@
+<p align="center">
+  <a href="#papers">Selected Papers</a> | <a href="#talks">Invited Talks</a>
+</p>
 Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Kyunghyun Cho](https://kyunghyuncho.me/). I'm primarily interested in deep learning models for language, especially <b>learning from rich feedback</b> (*e.g.* [natural language](https://arxiv.org/abs/2303.16749) [feedback](https://arxiv.org/abs/2204.14146) and [interactions with the environment](https://arxiv.org/abs/2302.14838)) and <b>[understanding](https://arxiv.org/abs/2309.07311) + [evaluating](https://arxiv.org/abs/2110.08193) how large language models (LLMs) learn</b>. Recently, I've also become interested in the use of <b>LLMs for biological applications</b>.
 
 I have worked as a student researcher at Google Research on [streaming models for disfluency detection](https://arxiv.org/abs/2205.00620) and at Google Brain on [LMs for neural architecture search (NAS)](https://arxiv.org/abs/2302.14838). Prior to NYU, I worked as a SWE at Google and graduated with high honors from Princeton Computer Science. [Sebastian Seung](https://www.cs.princeton.edu/people/profile/sseung) advised my senior thesis at Princeton, for which I received an Outstanding Computer Science Thesis award.
 
 Outside of my research, I enjoy running, baking more pastries than I can feasibly eat, and cooking. I also volunteer as a rape and domestic violence crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) (at Lenox Health Greenwich Village and Brookdale Hospital) and a crisis counselor for [Crisis Text Line](https://www.crisistextline.org/).
 
-<h2 align="center">
+<h2 align="center" id="papers">
   Selected Papers
 </h2>
 
@@ -71,4 +74,10 @@ Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, 
 <i>ACL Findings 2022</i><br>
 Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Jana Thompson, Phu Mon Htut and Sam Bowman<br>
 [<a href="https://aclanthology.org/2022.findings-acl.165/">ACL Anthology</a>]<br>
-<br>
+
+<h2 id="talks">Invited Talks</h2>
+
+*   "Interpreting Model Training," <i>Princeton Language and Intelligence</i>, April 18, 2024 (<a href="https://docs.google.com/presentation/d/1zyjPLBF1RyGCIxWPs_G81YdXAP2rgaCFksraiUZSDr0/edit?usp=sharing">Slides</a>)
+*   "Learning From Natural Language Feedback," <i>Cohere</i>, Auguest 2, 2023 (<a href="https://www.youtube.com/watch?v=Ex2qCbZCIFI">Video</a>)
+*   "Learning From Natural Language Feedback," <i>Mosaic ML</i>, April 16, 2023
+*   "Teaching BERT To Wait," <i>NYU Natural Language Understanding DS-GA 1012/LING-GA 1012</i>, March 10, 2022 (<a href="https://docs.google.com/presentation/d/1kDJU-Ar03UWzeXlu4RzF04tFXc6v2ei6GV6VYqLvPus/edit?usp=sharing">Slides</a>)
