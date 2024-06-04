@@ -81,7 +81,8 @@ Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason 
 
 * * *
 
-*   "Interpreting Model Training," <i><a href="https://pli.princeton.edu/events/seminar-lunch-series">Princeton Language and Intelligence</a></i>, April 18, 2024 (<a href="https://docs.google.com/presentation/d/1zyjPLBF1RyGCIxWPs_G81YdXAP2rgaCFksraiUZSDr0/edit?usp=sharing">Slides</a>)
+*   "Interpreting Model Training," <i><a href="https://pli.princeton.edu/events/seminar-lunch-series">Princeton Language and Intelligence Lunch Seminar Series</a></i>, April 18, 2024 (<a href="https://docs.google.com/presentation/d/1zyjPLBF1RyGCIxWPs_G81YdXAP2rgaCFksraiUZSDr0/edit?usp=sharing">Slides</a>)
+*   "Sudden Drops in the Loss," <i><a href="https://mechinterp.com/reading-group">Mechanistic Interpretability Reading Group</a></i>, October 25, 2023
 *   "Learning From Natural Language Feedback," <i>Cohere</i>, August 2, 2023 (<a href="https://www.youtube.com/watch?v=Ex2qCbZCIFI">Video</a>)
 *   "Learning From Natural Language Feedback," <i>Mosaic ML</i>, April 16, 2023
 *   "Teaching BERT To Wait," <i>NYU Natural Language Understanding DS-GA 1012/LING-GA 1012</i>, March 10, 2022 (<a href="https://docs.google.com/presentation/d/1kDJU-Ar03UWzeXlu4RzF04tFXc6v2ei6GV6VYqLvPus/edit?usp=sharing">Slides</a>)
