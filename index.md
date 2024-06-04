@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#papers">Selected Papers</a> | <a href="#talks">Invited Talks</a>
+  <a href="#papers">Selected Papers</a> | <a href="#talks">Invited Talks</a> | <a href="https://x.com/_angie_chen">Twitter</a>
 </p>
 Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Kyunghyun Cho](https://kyunghyuncho.me/). I'm primarily interested in deep learning models for language, especially <b>learning from rich feedback</b> (*e.g.* [natural language](https://arxiv.org/abs/2303.16749) [feedback](https://arxiv.org/abs/2204.14146) and [interactions with the environment](https://arxiv.org/abs/2302.14838)) and <b>[understanding](https://arxiv.org/abs/2309.07311) + [evaluating](https://arxiv.org/abs/2110.08193) how large language models (LLMs) learn</b>. Recently, I've also become interested in the use of <b>LLMs for biological applications</b>.
 
