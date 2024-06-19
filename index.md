@@ -18,6 +18,7 @@ My work is largely split into three general directions -- understanding LLM trai
 <h3>Understanding LLM Training</h3>
 <b><u>Preference Learning Algorithms Do Not Learn Preference Rankings</u></b><br>
 <i>Preprint</i><br>
+<i>Oral at ICML 2024 Workshop on Models of Human Feedback for AI Alignment (MHFAIA)</i><br>
 <b>Chen, Angelica</b>, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, Kyunghyun Cho.<br>
 [<a href="https://arxiv.org/abs/2405.19534">Arxiv</a>] [<a href="https://github.com/angie-chen55/pref-learning-ranking-acc/tree/main">GitHub</a>] <br>
 <br>
@@ -81,6 +82,7 @@ Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason 
 
 * * *
 
+* <i>(Upcoming)</i> "Preference Learning Algorithms Do Not Learn Preference Rankings," <i><a href="https://sites.google.com/view/mhf-icml2024">ICML 2024 Workshop on Models of Human Feedback for AI Alignment</a></i>, July 26, 2024
 *   "Interpreting Model Training," <i><a href="https://pli.princeton.edu/events/seminar-lunch-series">Princeton Language and Intelligence Lunch Seminar Series</a></i>, April 18, 2024 (<a href="https://docs.google.com/presentation/d/1zyjPLBF1RyGCIxWPs_G81YdXAP2rgaCFksraiUZSDr0/edit?usp=sharing">Slides</a>)
 *   "Sudden Drops in the Loss," <i><a href="https://mechinterp.com/reading-group">Mechanistic Interpretability Reading Group</a></i>, October 25, 2023
 *   "Learning From Natural Language Feedback," <i>Cohere</i>, August 2, 2023 (<a href="https://www.youtube.com/watch?v=Ex2qCbZCIFI">Video</a>)
