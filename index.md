@@ -1,11 +1,22 @@
 <p align="center">
   <a href="#papers">Selected Papers</a> | <a href="#talks">Invited Talks</a> | <a href="https://scholar.google.com/citations?user=QbW4GSwAAAAJ&hl=en">Google Scholar</a> | <a href="https://x.com/_angie_chen">Twitter</a>
 </p>
-Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Kyunghyun Cho](https://kyunghyuncho.me/). I'm primarily interested in deep learning models for language, especially <b>learning from rich feedback</b> (*e.g.* [natural language](https://arxiv.org/abs/2303.16749) [feedback](https://arxiv.org/abs/2204.14146) and [interactions with the environment](https://arxiv.org/abs/2302.14838)) and <b>[understanding](https://arxiv.org/abs/2309.07311) + [evaluating](https://arxiv.org/abs/2110.08193) how large language models (LLMs) learn</b>. Recently, I've also become interested in the use of <b>LLMs for biological applications</b>.
+Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Kyunghyun Cho](https://kyunghyuncho.me/). My research primarily focuses on understanding and improving how large language models (LLMs) learn from online feedback through the lens of training dynamics. Recently, I've also become interested in the use of <b>LLMs for biological applications</b>.
 
 I have worked as a student researcher at Google Research on [streaming models](https://arxiv.org/abs/2205.00620) and at Google Brain on [evolution with LLMs](https://arxiv.org/abs/2302.14838). Prior to NYU, I worked as a SWE at Google and graduated with high honors from Princeton Computer Science. [Sebastian Seung](https://www.cs.princeton.edu/people/profile/sseung) advised my senior thesis at Princeton, for which I received an Outstanding Computer Science Thesis award.
 
 Outside of my research, I enjoy running and baking more pastries than I can feasibly eat. I also volunteer as a rape and domestic violence crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) and a crisis counselor for [Crisis Text Line](https://www.crisistextline.org/).
+
+<h2 align="center" id="news">
+  News
+</h2>
+
+* * *
+
+* I gave a recent plenary talk at the ICML 2024 Workshop for High-Dimensional Learning Dynamics (HiLD) on the kinds of misleading conclusions we might come to if we neglect to analyze LLM training dynamics. Video is <a href="https://icml.cc/virtual/2024/workshop/29974">here</a> (requires an ICML login, starts at ~52:00).
+* This summer I'll be working as a research intern at Prescient Design, in NYC.
+* This fall I will start as a Visiting Researcher at Meta AI NYC as part of the Meta AI Mentorship (AIM) program.
+
 
 <h2 align="center" id="papers">
   Selected Papers
@@ -82,7 +93,8 @@ Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason 
 
 * * *
 
-* <i>(Upcoming)</i> "Preference Learning Algorithms Do Not Learn Preference Rankings," <i><a href="https://sites.google.com/view/mhf-icml2024">ICML 2024 Workshop on Models of Human Feedback for AI Alignment</a></i>, July 26, 2024
+*   "Misleading Endpoints – Lessons from LLM Training Dynamics" (Plenary) <i><a href="https://icml.cc/virtual/2024/workshop/29974">ICML 2024 Workshop on High-Dimensional Learning Dynamics (HiLD)</a></i>, July 26, 2024
+*   "Preference Learning Algorithms Do Not Learn Preference Rankings," <i><a href="https://icml.cc/virtual/2024/workshop/29943">ICML 2024 Workshop on Models of Human Feedback for AI Alignment</a></i>, July 26, 2024
 *   "Interpreting Model Training," <i><a href="https://pli.princeton.edu/events/seminar-lunch-series">Princeton Language and Intelligence Lunch Seminar Series</a></i>, April 18, 2024 (<a href="https://docs.google.com/presentation/d/1zyjPLBF1RyGCIxWPs_G81YdXAP2rgaCFksraiUZSDr0/edit?usp=sharing">Slides</a>)
 *   "Sudden Drops in the Loss," <i><a href="https://mechinterp.com/reading-group">Mechanistic Interpretability Reading Group</a></i>, October 25, 2023
 *   "Learning From Natural Language Feedback," <i>Cohere</i>, August 2, 2023 (<a href="https://www.youtube.com/watch?v=Ex2qCbZCIFI">Video</a>)
