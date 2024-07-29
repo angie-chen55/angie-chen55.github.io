@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#papers">Selected Papers</a> | <a href="#talks">Invited Talks</a> | <a href="https://scholar.google.com/citations?user=QbW4GSwAAAAJ&hl=en">Google Scholar</a> | <a href="https://x.com/_angie_chen">Twitter</a>
 </p>
-Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Kyunghyun Cho](https://kyunghyuncho.me/). My research primarily focuses on understanding and improving how large language models (LLMs) learn from online feedback through the lens of training dynamics. Recently, I've also become interested in the use of <b>LLMs for biological applications</b>.
+Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Kyunghyun Cho](https://kyunghyuncho.me/). My research primarily focuses on understanding and improving how large language models (LLMs) learn from <b>online feedback</b> through the lens of <b>training dynamics</b>. Recently, I've also become interested in the use of <b>LLMs for biological applications</b>.
 
 I have worked as a student researcher at Google Research on [streaming models](https://arxiv.org/abs/2205.00620) and at Google Brain on [evolution with LLMs](https://arxiv.org/abs/2302.14838). Prior to NYU, I worked as a SWE at Google and graduated with high honors from Princeton Computer Science. [Sebastian Seung](https://www.cs.princeton.edu/people/profile/sseung) advised my senior thesis at Princeton, for which I received an Outstanding Computer Science Thesis award.
 
@@ -13,8 +13,8 @@ Outside of my research, I enjoy running and baking more pastries than I can feas
 
 * * *
 
-* I gave a recent plenary talk at the ICML 2024 Workshop for High-Dimensional Learning Dynamics (HiLD) on the kinds of misleading conclusions we might come to if we neglect to analyze LLM training dynamics. Video is <a href="https://icml.cc/virtual/2024/workshop/29974">here</a> (requires an ICML login, starts at ~52:00).
-* This summer I'll be working as a research intern at Prescient Design, in NYC.
+* I gave a recent plenary talk at the ICML 2024 Workshop for High-Dimensional Learning Dynamics (HiLD) on the kinds of misleading conclusions we might come to if we neglect to analyze LLM training dynamics. Video is <a href="https://icml.cc/virtual/2024/workshop/29974">here</a> (requires an ICML login, starts at ~52:00) and slides are <a href="https://docs.google.com/presentation/d/1ibVtU2Ug3OCbeo1X8VObjGatBPMS62Y1h_L1s05IsvY/edit?usp=sharing">here</a>.
+* This summer I will be working as a research intern at Prescient Design in NYC.
 * This fall I will start as a Visiting Researcher at Meta AI NYC as part of the Meta AI Mentorship (AIM) program.
 
 
