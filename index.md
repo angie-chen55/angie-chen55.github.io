@@ -3,7 +3,7 @@
 </p>
 Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Kyunghyun Cho](https://kyunghyuncho.me/). My research primarily focuses on understanding and improving how large language models (LLMs) learn from <b>online feedback</b> through the lens of <b>training dynamics</b>. Recently, I've also become interested in the use of <b>LLMs for biological applications</b>.
 
-I have worked as a student researcher at Google Research on [streaming models](https://arxiv.org/abs/2205.00620) and at Google Brain on [evolution with LLMs](https://arxiv.org/abs/2302.14838). Prior to NYU, I worked as a SWE at Google and graduated with high honors from Princeton Computer Science. [Sebastian Seung](https://www.cs.princeton.edu/people/profile/sseung) advised my senior thesis at Princeton, for which I received an Outstanding Computer Science Thesis award.
+I have worked as a PhD intern at Google Research on [streaming models](https://arxiv.org/abs/2205.00620), as a student researcher at Google Brain on [evolution with LLMs](https://arxiv.org/abs/2302.14838), and as a research intern at Prescient Design on LLMs for discrete sequence optimization. Prior to NYU, I worked as a SWE at Google and graduated with high honors from Princeton Computer Science. [Sebastian Seung](https://www.cs.princeton.edu/people/profile/sseung) advised my senior thesis at Princeton, for which I received an Outstanding Computer Science Thesis award.
 
 Outside of my research, I enjoy running and baking more pastries than I can feasibly eat. I also volunteer as a rape and domestic violence crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) and a crisis counselor for [Crisis Text Line](https://www.crisistextline.org/).
 
@@ -12,9 +12,8 @@ Outside of my research, I enjoy running and baking more pastries than I can feas
 </h2>
 
 * * *
-
+* <b>I will be on the job market this fall!</b> I'm primarily looking for full-time research scientist or postdoc positions (in industry or academia) focused on preference learning, LLM training dynamics, or LLMs for biological applications.
 * I gave a recent plenary talk at the ICML 2024 Workshop for High-Dimensional Learning Dynamics (HiLD) on the kinds of misleading conclusions we might come to if we neglect to analyze LLM training dynamics. Video is <a href="https://icml.cc/virtual/2024/workshop/29974">here</a> (requires an ICML login, starts at ~52:00) and slides are <a href="https://docs.google.com/presentation/d/1ibVtU2Ug3OCbeo1X8VObjGatBPMS62Y1h_L1s05IsvY/edit?usp=sharing">here</a>.
-* This summer I will be working as a research intern at Prescient Design in NYC.
 * This fall I will start as a Visiting Researcher at Meta AI NYC as part of the Meta AI Mentorship (AIM) program.
 
 
