@@ -14,7 +14,7 @@ Outside of my research, I enjoy running and baking more pastries than I can feas
 * * *
 * <b>I will be on the job market this fall!</b> I'm primarily looking for full-time research scientist or postdoc positions (in industry or academia) focused on preference learning, LLM training dynamics, or LLMs for biological applications.
 * I gave a recent plenary talk at the ICML 2024 Workshop for High-Dimensional Learning Dynamics (HiLD) on the kinds of misleading conclusions we might come to if we neglect to analyze LLM training dynamics. Video is <a href="https://icml.cc/virtual/2024/workshop/29974">here</a> (requires an ICML login, starts at ~52:00) and slides are <a href="https://docs.google.com/presentation/d/1ibVtU2Ug3OCbeo1X8VObjGatBPMS62Y1h_L1s05IsvY/edit?usp=sharing">here</a>.
-* This fall I will start as a Visiting Researcher at Meta AI NYC as part of the Meta AI Mentorship (AIM) program.
+* This fall I will start as a Visiting Researcher (20% time) at Meta AI NYC as part of the Meta AI Mentorship (AIM) program. I will also be working part-time (20%) at Prescient Design as an ML Scientist.
 
 
 <h2 align="center" id="papers">
@@ -27,7 +27,7 @@ My work is largely split into three general directions -- understanding LLM trai
 
 <h3>Understanding LLM Training</h3>
 <b><u>Preference Learning Algorithms Do Not Learn Preference Rankings</u></b><br>
-<i>Preprint</i><br>
+<i>NeurIPS 2024</i><br>
 <i>Oral at ICML 2024 Workshop on Models of Human Feedback for AI Alignment (MHFAIA)</i><br>
 <b>Chen, Angelica</b>, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, Kyunghyun Cho.<br>
 [<a href="https://arxiv.org/abs/2405.19534">Arxiv</a>] [<a href="https://github.com/angie-chen55/pref-learning-ranking-acc/tree/main">GitHub</a>] <br>
