@@ -44,6 +44,12 @@ Michael Y. Hu, <b>Angelica Chen</b>, Naomi Saphra, Kyunghyun Cho<br>
 <br>
 
 <h3>Improving How LLMs Learn From Feedback</h3>
+<b><u>LLMs are Highly-Constrained Biophysical Sequence Optimizers</u></b><br>
+<i>Preprint</i><br>
+<i>(Spotlight) NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX)</i><br>
+<b>Angelica Chen</b>, Samuel D. Stanton, Robert G. Alberstein, Andrew M. Watkins, Richard Bonneau, Vladimir Gligorijevi, Kyunghyun Cho, Nathan C. Frey<br>
+[<a href="https://arxiv.org/abs/2410.22296">Arxiv</a>]
+<br><br>
 <b><u>Playing Large Games with Oracles and AI Debate</u></b><br>
 <i>Preprint</i><br>
 Xinyi Chen, <b>Angelica Chen</b>, Dean Foster, Elad Hazan.<br>
