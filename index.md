@@ -12,9 +12,9 @@ Outside of my research, I enjoy running and baking more pastries than I can feas
 </h2>
 
 * * *
-* <b>I will be on the job market this fall!</b> I'm primarily looking for full-time research scientist or postdoc positions (in industry or academia) focused on preference learning, LLM training dynamics, or LLMs for biological applications.
+* <b>I am currently on the job market!</b> I'm primarily looking for full-time research scientist or postdoc positions (in industry or academia) focused on preference learning, LLM training dynamics, or LLMs for biological applications.
 * I gave a recent plenary talk at the ICML 2024 Workshop for High-Dimensional Learning Dynamics (HiLD) on the kinds of misleading conclusions we might come to if we neglect to analyze LLM training dynamics. Video is <a href="https://icml.cc/virtual/2024/workshop/29974">here</a> (requires an ICML login, starts at ~52:00) and slides are <a href="https://docs.google.com/presentation/d/1ibVtU2Ug3OCbeo1X8VObjGatBPMS62Y1h_L1s05IsvY/edit?usp=sharing">here</a>.
-* This fall I will start as a Visiting Researcher (20% time) at Meta AI NYC as part of the Meta AI Mentorship (AIM) program. I will also be working part-time (20%) at Prescient Design as an ML Scientist.
+* As of fall 2024, I am also a <b>Visiting Researcher</b> (20% time) at <b>Meta AI NYC</b> and a part-time <b>ML Scientist</b> (20% time) at <b>Prescient Design</b>.
 
 
 <h2 align="center" id="papers">
