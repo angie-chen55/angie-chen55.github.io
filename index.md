@@ -34,7 +34,7 @@ My work is largely split into three general directions -- understanding LLM trai
 <b><u>Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs</u></b><br>
 <i>ICLR 2024 (Spotlight)</i><br>
 <b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra.<br>
-[<a href="https://openreview.net/forum?id=MO5PiKHELW">OpenReview</a>] [<a href="https://arxiv.org/abs/2309.07311">Arxiv</a>] <br>
+[<a href="https://openreview.net/forum?id=MO5PiKHELW">OpenReview</a>] [<a href="https://arxiv.org/abs/2309.07311">Arxiv</a>] [<a href="https://github.com/angie-chen55/sudden-drops-in-the-loss">GitHub</a>] <br>
 <br>
 <b><u>Latent State Models of Training Dynamics</u></b><br>
 <i>Transactions on Machine Learning Research</i><br>
