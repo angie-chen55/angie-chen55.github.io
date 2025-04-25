@@ -92,7 +92,7 @@ Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason 
 
 * * *
 
-*   "Understanding LLM Training" <i><a href="https://cims.nyu.edu/ai/seminars/cilvr-seminar-series/52/">AI@NYU CILVR Seminar</a></i>, October 23, 2024
+*   "Understanding LLM Training" <i><a href="https://cims.nyu.edu/ai/seminars/cilvr-seminar-series/52/">AI@NYU CILVR Seminar</a></i>, October 23, 2024 (<a href="https://cims.nyu.edu/ai/seminars/cilvr-seminar-series/52/">Video</a>)
 *   "Misleading Endpoints – Lessons from LLM Training Dynamics" (Plenary) <i><a href="https://icml.cc/virtual/2024/workshop/29974">ICML 2024 Workshop on High-Dimensional Learning Dynamics (HiLD)</a></i>, July 26, 2024
 *   "Preference Learning Algorithms Do Not Learn Preference Rankings," <i><a href="https://icml.cc/virtual/2024/workshop/29943">ICML 2024 Workshop on Models of Human Feedback for AI Alignment</a></i>, July 26, 2024
 *   "Interpreting Model Training," <i><a href="https://pli.princeton.edu/events/seminar-lunch-series">Princeton Language and Intelligence Lunch Seminar Series</a></i>, April 18, 2024 (<a href="https://docs.google.com/presentation/d/1zyjPLBF1RyGCIxWPs_G81YdXAP2rgaCFksraiUZSDr0/edit?usp=sharing">Slides</a>)
