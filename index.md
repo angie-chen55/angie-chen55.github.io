@@ -44,11 +44,10 @@ Michael Y. Hu, <b>Angelica Chen</b>, Naomi Saphra, Kyunghyun Cho<br>
 
 <h3>Improving How LLMs Learn From Feedback</h3>
 <b><u>Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks</u></b><br>
-<i>Preprint</i><br>
+<i>ICML 2025</i><br>
 <i>(Spotlight) NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX)</i><br>
 <b>Angelica Chen</b>, Samuel D. Stanton, Frances Ding, Robert G. Alberstein, Andrew M. Watkins, Richard Bonneau, Vladimir Gligorijević, Kyunghyun Cho, Nathan C. Frey<br>
 [<a href="https://arxiv.org/abs/2410.22296">Arxiv</a>] [<a href="https://github.com/prescient-design/llome">Github</a>] <br><br>
-
 <b><u>EvoPrompting: Language Models for Code-Level Neural Architecture Search</u></b><br>
 <i>NeurIPS 2023 (poster)</i><br>
 <b>Chen, Angelica</b>, David M. Dohan and David R. So<br>
