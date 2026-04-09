@@ -1,11 +1,9 @@
 <p align="center">
   <a href="#papers">Selected Papers</a> | <a href="#talks">Invited Talks</a> | <a href="https://scholar.google.com/citations?user=QbW4GSwAAAAJ&hl=en">Google Scholar</a> | <a href="https://x.com/_angie_chen">Twitter</a>
 </p>
-Hi! I'm a PhD student at NYU Center for Data Science in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, advised by [Kyunghyun Cho](https://kyunghyuncho.me/). My research primarily focuses on understanding and improving how large language models (LLMs) learn from <b>online feedback</b> through the lens of <b>training dynamics</b>. Recently, I've also become interested in the use of <b>LLMs for biological applications</b>.
+Hi! I'm a research scientist at Google DeepMind, currently working on Gemini training. My research broadly focuses on LLM training dynamics and reinforcement learning. I am also interested in the application of LLMs to biomedical fields, including both drug design and hospital decision-making. Before DeepMind, I completed my PhD at NYU in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, where I was fortunate to be advised by [Kyunghyun Cho](https://kyunghyuncho.me/).
 
-I have worked as a PhD intern at Google Research on [streaming models](https://arxiv.org/abs/2205.00620), as a student researcher at Google Brain on [evolution with LLMs](https://arxiv.org/abs/2302.14838), and as a research intern at Prescient Design on [LLMs for discrete sequence optimization](https://arxiv.org/abs/2410.22296v4). Prior to NYU, I worked as a SWE at Google and graduated with high honors from Princeton Computer Science. [Sebastian Seung](https://www.cs.princeton.edu/people/profile/sseung) advised my senior thesis at Princeton, for which I received an Outstanding Computer Science Thesis award.
-
-Outside of my research, I enjoy running and baking more pastries than I can feasibly eat. I also volunteer as a NYSDOH-certified rape and domestic violence crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) at local hospital EDs.
+Outside of my research, I enjoy running, thrift flipping, and baking more pastries than I can feasibly eat. I also volunteer as a NYSDOH-certified rape and domestic violence crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) at local hospital EDs, and work with the NYC chapter of the [DSA](https://socialists.nyc/).
 
 <h2 align="center" id="news">
   News
