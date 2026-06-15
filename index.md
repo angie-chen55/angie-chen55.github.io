@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#papers">Selected Papers</a> | <a href="#talks">Invited Talks</a> | <a href="https://scholar.google.com/citations?user=QbW4GSwAAAAJ&hl=en">Google Scholar</a> | <a href="https://x.com/_angie_chen">Twitter</a>
 </p>
-Hi! I'm a research scientist at Google DeepMind, currently working on Gemini training. My research broadly focuses on LLM training dynamics and reinforcement learning. I am also interested in the application of LLMs to biomedical fields, including both drug design and hospital decision-making. Before DeepMind, I completed my PhD at NYU in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, where I was fortunate to be advised by [Kyunghyun Cho](https://kyunghyuncho.me/).
+Hi! I'm a research scientist at Google DeepMind, currently working on Gemini training. My research broadly focuses on LLM training dynamics (both pre-training and post-training), self-improvement, and reinforcement learning algorithms. I am also interested in the application of LLMs to biomedical fields, including both drug design and hospital decision-making. Before DeepMind, I completed my PhD at NYU in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, where I was fortunate to be advised by [Kyunghyun Cho](https://kyunghyuncho.me/).
 
 Outside of my research, I enjoy running, thrift flipping, and baking more pastries than I can feasibly eat. I also volunteer as a NYSDOH-certified rape and domestic violence crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) at local hospital EDs, and work with the NYC chapter of the [DSA](https://socialists.nyc/).
 
