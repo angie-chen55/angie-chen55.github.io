@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#papers">Selected Papers</a> | <a href="#talks">Invited Talks</a> | <a href="https://scholar.google.com/citations?user=QbW4GSwAAAAJ&hl=en">Google Scholar</a> | <a href="https://x.com/_angie_chen">Twitter</a>
 </p>
-Hi! I'm a research scientist at Google DeepMind, currently working on Gemini training. My research broadly focuses on LLM training dynamics (both pre-training and post-training), self-improvement, and reinforcement learning algorithms. I am also interested in the application of LLMs to biomedical fields, including both drug design and hospital decision-making. Before DeepMind, I completed my PhD at NYU in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, where I was fortunate to be advised by [Kyunghyun Cho](https://kyunghyuncho.me/).
+Hi! I'm a senior research scientist at Google DeepMind, currently working on Gemini training algorithms. My research broadly focuses on <b>reinforcement learning algorithms</b>, <b>LLM training dynamics</b> (both pre-training and post-training), and <b>recursive self-improvement</b>. I am also interested in the <b>application of LLMs to biomedical fields</b>, including both drug design and hospital decision-making. Before DeepMind, I completed my PhD at NYU in the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group, where I was fortunate to be advised by [Kyunghyun Cho](https://kyunghyuncho.me/). I have also previously worked or interned for Google Brain, Meta FAIR, and Prescient Design at Genentech. 
 
 Outside of my research, I enjoy running, thrift flipping, and baking more pastries than I can feasibly eat. I also volunteer as a NYSDOH-certified rape and domestic violence crisis counselor/victim advocate for the [NYC Crime Victims Treatment Center](https://www.cvtcnyc.org/) at local hospital EDs, and work with the NYC chapter of the [DSA](https://socialists.nyc/).
 
@@ -11,7 +11,7 @@ Outside of my research, I enjoy running, thrift flipping, and baking more pastri
 
 * * *
 * I gave a recent plenary talk at the ICML 2024 Workshop for High-Dimensional Learning Dynamics (HiLD) on the kinds of misleading conclusions we might come to if we neglect to analyze LLM training dynamics. Video is <a href="https://icml.cc/virtual/2024/workshop/29974">here</a> (requires an ICML login, starts at ~52:00) and slides are <a href="https://docs.google.com/presentation/d/1ibVtU2Ug3OCbeo1X8VObjGatBPMS62Y1h_L1s05IsvY/edit?usp=sharing">here</a>.
-* As of fall 2024, I am also a <b>Visiting Researcher</b> (20% time) at <b>Meta AI NYC</b> and a part-time <b>ML Scientist</b> (20% time) at <b>Prescient Design</b>. In summer 2025, I will be joining Google DeepMind as a Senior Research Scientist (based in the NYC office) working on Gemini training.
+* As of summer 2025, I will be joining Google DeepMind as a Senior Research Scientist (based in the NYC office) working on Gemini training.
 
 
 <h2 align="center" id="papers">
@@ -21,24 +21,6 @@ Outside of my research, I enjoy running, thrift flipping, and baking more pastri
 * * *
 
 My work is largely split into three general directions -- understanding LLM training, improving how LLMs learn from feedback, and evaluating LLMs. For a more complete list of my papers, please see <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar</a>.<br>
-
-<h3>Understanding LLM Training</h3>
-<b><u>Preference Learning Algorithms Do Not Learn Preference Rankings</u></b><br>
-<i>NeurIPS 2024</i><br>
-<i>Oral at ICML 2024 Workshop on Models of Human Feedback for AI Alignment (MHFAIA)</i><br>
-<b>Chen, Angelica</b>, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, Kyunghyun Cho.<br>
-[<a href="https://arxiv.org/abs/2405.19534">Arxiv</a>] [<a href="https://github.com/angie-chen55/pref-learning-ranking-acc/tree/main">GitHub</a>] <br>
-<br>
-<b><u>Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs</u></b><br>
-<i>ICLR 2024 (Spotlight)</i><br>
-<b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra.<br>
-[<a href="https://openreview.net/forum?id=MO5PiKHELW">OpenReview</a>] [<a href="https://arxiv.org/abs/2309.07311">Arxiv</a>] [<a href="https://github.com/angie-chen55/sudden-drops-in-the-loss">GitHub</a>] <br>
-<br>
-<b><u>Latent State Models of Training Dynamics</u></b><br>
-<i>Transactions on Machine Learning Research</i><br>
-Michael Y. Hu, <b>Angelica Chen</b>, Naomi Saphra, Kyunghyun Cho<br>
-[<a href="https://arxiv.org/abs/2308.09543">Arxiv</a>] [<a href="https://openreview.net/forum?id=NE2xXWo0LF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">OpenReview</a>]<br>
-<br>
 
 <h3>Improving How LLMs Learn From Feedback</h3>
 <b><u>Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks</u></b><br>
@@ -65,6 +47,24 @@ Korbak, Tomasz, Kejian Shi, <b>Angelica Chen</b>, Rasika Bhalerao, Christopher L
 <i>NAACL 2022 (oral)</i><br>
 <b>Chen, Angelica</b>, Victoria Zayats, Daniel David Walker and Dirk Ryan Padfield<br>
 [<a href="https://www.aclanthology.org/2022.naacl-main.60.pdf">ACL Anthology</a>]<br>
+<br>
+
+<h3>Understanding LLM Training</h3>
+<b><u>Preference Learning Algorithms Do Not Learn Preference Rankings</u></b><br>
+<i>NeurIPS 2024</i><br>
+<i>Oral at ICML 2024 Workshop on Models of Human Feedback for AI Alignment (MHFAIA)</i><br>
+<b>Chen, Angelica</b>, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, Kyunghyun Cho.<br>
+[<a href="https://arxiv.org/abs/2405.19534">Arxiv</a>] [<a href="https://github.com/angie-chen55/pref-learning-ranking-acc/tree/main">GitHub</a>] <br>
+<br>
+<b><u>Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs</u></b><br>
+<i>ICLR 2024 (Spotlight)</i><br>
+<b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra.<br>
+[<a href="https://openreview.net/forum?id=MO5PiKHELW">OpenReview</a>] [<a href="https://arxiv.org/abs/2309.07311">Arxiv</a>] [<a href="https://github.com/angie-chen55/sudden-drops-in-the-loss">GitHub</a>] <br>
+<br>
+<b><u>Latent State Models of Training Dynamics</u></b><br>
+<i>Transactions on Machine Learning Research</i><br>
+Michael Y. Hu, <b>Angelica Chen</b>, Naomi Saphra, Kyunghyun Cho<br>
+[<a href="https://arxiv.org/abs/2308.09543">Arxiv</a>] [<a href="https://openreview.net/forum?id=NE2xXWo0LF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">OpenReview</a>]<br>
 <br>
 
 <h3>Evaluating LLMs</h3>
