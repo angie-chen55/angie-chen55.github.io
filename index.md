@@ -43,11 +43,6 @@ Korbak, Tomasz, Kejian Shi, <b>Angelica Chen</b>, Rasika Bhalerao, Christopher L
 Jack Lanchantin, <b>Angelica Chen</b>, Shehzaad Dhuliawala, Ping Yu, Jason Weston, Sainbayar Sukhbaatar, Ilia Kulikov<br>
 [<a href="https://arxiv.org/abs/2501.18101">Arxiv</a>]<br>
 <br>
-<b><u>Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection</u></b><br>
-<i>NAACL 2022 (oral)</i><br>
-<b>Chen, Angelica</b>, Victoria Zayats, Daniel David Walker and Dirk Ryan Padfield<br>
-[<a href="https://www.aclanthology.org/2022.naacl-main.60.pdf">ACL Anthology</a>]<br>
-<br>
 
 <h3>Understanding LLM Training</h3>
 <b><u>Preference Learning Algorithms Do Not Learn Preference Rankings</u></b><br>
@@ -65,17 +60,10 @@ Jack Lanchantin, <b>Angelica Chen</b>, Shehzaad Dhuliawala, Ping Yu, Jason Westo
 Jack Lanchantin, <b>Angelica Chen</b>, Janice Lan, Xian Li, Swarnadeep Saha, Tianlu Wang, Jing Xu, Ping Yu, Weizhe Yuan, Jason E Weston, Sainbayar Sukhbaatar, Ilia Kulikov<br>
 [<a href="https://arxiv.org/abs/2506.21495">Arxiv</a>]<br>
 <br>
-
-
 <b><u>Latent State Models of Training Dynamics</u></b><br>
 <i>Transactions on Machine Learning Research</i><br>
 Michael Y. Hu, <b>Angelica Chen</b>, Naomi Saphra, Kyunghyun Cho<br>
 [<a href="https://arxiv.org/abs/2308.09543">Arxiv</a>] [<a href="https://openreview.net/forum?id=NE2xXWo0LF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">OpenReview</a>]<br>
-<br>
-<b><u>Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs</u></b><br>
-<i>Transactions on Machine Learning Research</i><br>
-<b>Chen, Angelica</b>, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho.<br> 
-[<a href="https://arxiv.org/abs/2305.14279">Arxiv</a>] [<a href="https://openreview.net/forum?id=5nBqY1y96B">OpenReview</a>]<br>
 <br>
 
 <h3>LLMs for Biomedical Applications</h3>
