@@ -20,21 +20,17 @@ Outside of my research, I enjoy running, thrift flipping, and baking more pastri
 
 * * *
 
-My work is largely split into three general directions -- understanding LLM training, improving how LLMs learn from feedback, and evaluating LLMs. For a more complete list of my papers, please see <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar</a>.<br>
+My work is largely split into three general directions -- improving how LLMs learn from feedback, understanding LLM training, and the application of LLMs to biomedical settings. For a more complete list of my papers, please see <a href="https://www.semanticscholar.org/author/Angelica-Chen/13336152">Semantic Scholar</a>.<br>
 
 <h3>Improving How LLMs Learn From Feedback</h3>
-<b><u>Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks</u></b><br>
-<i>ICML 2025</i><br>
-<i>(Spotlight) NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX)</i><br>
-<b>Angelica Chen</b>, Samuel D. Stanton, Frances Ding, Robert G. Alberstein, Andrew M. Watkins, Richard Bonneau, Vladimir Gligorijević, Kyunghyun Cho, Nathan C. Frey<br>
-[<a href="https://arxiv.org/abs/2410.22296">Arxiv</a>] [<a href="https://github.com/prescient-design/llome">Github</a>] <br><br>
+
 <b><u>EvoPrompting: Language Models for Code-Level Neural Architecture Search</u></b><br>
-<i>NeurIPS 2023 (poster)</i><br>
+<i>NeurIPS 2023</i><br>
 <b>Chen, Angelica</b>, David M. Dohan and David R. So<br>
 [<a href="https://openreview.net/forum?id=ifbF4WdT8f">OpenReview</a>] [<a href="https://arxiv.org/abs/2302.14838">Arxiv</a>]<br>
 <br>
 <b><u>Learning from Natural Language Feedback</u></b><br>
-<i>Transactions on Machine Learning Research</i><br>
+<i>Transactions on Machine Learning Research (2024)</i><br>
 <b>Chen, Angelica<sup>\*</sup></b>, Jérémy Scheurer<sup>\*</sup>, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez<br>
 [<a href="https://openreview.net/forum?id=xo3hI5MwvU">OpenReview</a>] [<a href="https://github.com/nyu-mll/ILF-for-code-generation">GitHub</a>]<br>
 <br>
@@ -42,6 +38,10 @@ My work is largely split into three general directions -- understanding LLM trai
 <i>ICML 2023 (oral)</i><br>
 Korbak, Tomasz, Kejian Shi, <b>Angelica Chen</b>, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Sam Bowman and Ethan Perez<br>
 [<a href="https://arxiv.org/abs/2302.08582.pdf">Arxiv</a>]<br>
+<br>
+<b><u>Diverse Preference Optimization</u></b><br>
+Jack Lanchantin, <b>Angelica Chen</b>, Shehzaad Dhuliawala, Ping Yu, Jason Weston, Sainbayar Sukhbaatar, Ilia Kulikov<br>
+[<a href="https://arxiv.org/abs/2501.18101">Arxiv</a>]<br>
 <br>
 <b><u>Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection</u></b><br>
 <i>NAACL 2022 (oral)</i><br>
@@ -61,27 +61,36 @@ Korbak, Tomasz, Kejian Shi, <b>Angelica Chen</b>, Rasika Bhalerao, Christopher L
 <b>Chen, Angelica</b>, Ravid Shwartz-Ziv, Kyunghyun Cho, Matthew L. Leavitt, Naomi Saphra.<br>
 [<a href="https://openreview.net/forum?id=MO5PiKHELW">OpenReview</a>] [<a href="https://arxiv.org/abs/2309.07311">Arxiv</a>] [<a href="https://github.com/angie-chen55/sudden-drops-in-the-loss">GitHub</a>] <br>
 <br>
+<b><u>Bridging Offline and Online Reinforcement Learning for LLMs</u></b><br>
+Jack Lanchantin, <b>Angelica Chen</b>, Janice Lan, Xian Li, Swarnadeep Saha, Tianlu Wang, Jing Xu, Ping Yu, Weizhe Yuan, Jason E Weston, Sainbayar Sukhbaatar, Ilia Kulikov<br>
+[<a href="https://arxiv.org/abs/2506.21495">Arxiv</a>]<br>
+<br>
+
+
 <b><u>Latent State Models of Training Dynamics</u></b><br>
 <i>Transactions on Machine Learning Research</i><br>
 Michael Y. Hu, <b>Angelica Chen</b>, Naomi Saphra, Kyunghyun Cho<br>
 [<a href="https://arxiv.org/abs/2308.09543">Arxiv</a>] [<a href="https://openreview.net/forum?id=NE2xXWo0LF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">OpenReview</a>]<br>
 <br>
-
-<h3>Evaluating LLMs</h3>
 <b><u>Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs</u></b><br>
 <i>Transactions on Machine Learning Research</i><br>
 <b>Chen, Angelica</b>, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho.<br> 
 [<a href="https://arxiv.org/abs/2305.14279">Arxiv</a>] [<a href="https://openreview.net/forum?id=5nBqY1y96B">OpenReview</a>]<br>
 <br>
-<b><u>QuALITY: Question Answering with Long Input Texts, Yes!</u></b><br>
-<i>NAACL 2022</i><br>
-Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, <b>Angelica Chen</b>, Vishakh Padmakumar, Johnny Ma, Jana Thompson, He He, Samuel Bowman<br>
-[<a href="https://aclanthology.org/2022.naacl-main.391/">ACL Anthology</a>]<br>
+
+<h3>LLMs for Biomedical Applications</h3>
+<b><u>Generalist Foundation Models Are Not Clinical Enough for Hospital Operations</u></b><br>
+<i>Under Review</i><br>
+Lavender Y Jiang<sup>\*</sup>, <b>Angelica Chen<sup>\*</sup></b>, Xu Han, Xujin Chris Liu, Radhika Dua, Kevin Eaton, Frederick Wolff, Robert Steele, Jeff Zhang, Anton Alyakin, Qingkai Pan, Yanbing Chen, Karl L Sangwon, Daniel A Alber, Jaden Stryker, Jin Vivian Lee, Yindalon Aphinyanaphongs, Kyunghyun Cho, Eric Karl Oermann<br>
+[<a href="https://arxiv.org/abs/2511.13703">Arxiv</a>]<br>
 <br>
-<b><u>BBQ: A hand-built bias benchmark for question answering</u></b><br>
-<i>ACL Findings 2022</i><br>
-Parrish, Alicia, <b>Angelica Chen</b>, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Jana Thompson, Phu Mon Htut and Sam Bowman<br>
-[<a href="https://aclanthology.org/2022.findings-acl.165/">ACL Anthology</a>]<br>
+
+<b><u>Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks</u></b><br>
+<i>ICML 2025</i><br>
+<i>(Spotlight) NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX)</i><br>
+<b>Angelica Chen</b>, Samuel D. Stanton, Frances Ding, Robert G. Alberstein, Andrew M. Watkins, Richard Bonneau, Vladimir Gligorijević, Kyunghyun Cho, Nathan C. Frey<br>
+[<a href="https://arxiv.org/abs/2410.22296">Arxiv</a>] [<a href="https://github.com/prescient-design/llome">Github</a>] <br><br>
+
 
 <h2 align="center" id="talks">
   Invited Talks
